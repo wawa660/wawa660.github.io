@@ -1,0 +1,31 @@
+body {
+  font-family: "Space Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  background-color:#3c3836;
+  color: #8ec07c
+}
+
+a {
+  text-decoration: none;
+  color: #458588;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  color: #d79921;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
+}
